@@ -9,3 +9,6 @@ Steps to use the exploit:
    version of Android that you want to test the vulnerability on. 
 4. Compile and run both the applications on an emulator of your choice or on an actual device 
 
+Required Tools:
+
+Android Studio on any platform/OS and any Android Emulator or an Android device 
