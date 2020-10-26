@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StrandHogg</string>
+    <string name="start">Start</string>
+    <string name="inoffensive_app">Sample Screen</string>
+    <string name="inoffensive_title">Basic app</string>
+    <string name="smile">😊</string>
+    <string name="trololo">trololo</string>
+    <string name="fake_message">Fake screen to get user info or app permissions</string>
+    <string name="go_to_original_app">Back to original app</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="target_package" translatable="false">com.example.myapplication_login</string>
+    <string name="replica_of_victim_app">Replica of Victim App</string>
+</resources>
